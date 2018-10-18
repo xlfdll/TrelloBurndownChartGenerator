@@ -6,6 +6,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
         Title="Burndown Chart" WindowStartupLocation="CenterScreen"
+        Icon="pack://application:,,,/Trello.ico"
         Width="1280" Height="720">
 
     <Grid>
