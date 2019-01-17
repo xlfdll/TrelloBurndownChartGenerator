@@ -31,7 +31,9 @@ A simple Trello burndown chart generator / viewer
 The burndown chart will be shown.
 
 ## Development Prerequisites
-* Visual Studio 2017+
+* Visual Studio 2015+
+
+Before the build, generate-build-number.sh needs to be executed in a Git / Bash shell to generate build information code file (BuildInfo.cs).
 
 ## External Sources
 Trello icon is from [Modern UI Icons](http://modernuiicons.com/), which is licensed under [CC BY-ND 3.0](https://github.com/Templarian/WindowsIcons/blob/master/WindowsPhone/license.txt).
